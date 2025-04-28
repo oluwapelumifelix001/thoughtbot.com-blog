@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    border: 0px;
+}
+button{
+    color: red;
+    border-radius: 40px;
+    padding: 10px;
+    background-color: black;
+    border-width: 50px;
+    border-color: red;
+
+}
+div{
+    margin:  20px 250px  ;
+}
